@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+lang="en"<html>
+  <head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>About Youssef-Osama123</title>
+
+  
+  </head>
+  <body>
+
+    <h1>Yousef Osama Ahmed Aly</h1>
+
+    <hr>
+
+    <h2>My Introduction</h2>
+    <p>
+      Hello! My name is Yousef. I am a student interested in programming and technology.
+      I enjoy learning new skills in computer science and building small projects.
+    </p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+      <li>Programming</li>
+      <li>Playing video games</li>
+      <li>Watching technology videos</li>
+    </ul>
+
+    <h2>Favorite Quote</h2>
+    <blockquote>
+      <p>"The best way to predict the future is to invent it."</p>
+      <cite>Alan Kay</cite>
+    </blockquote>
+
+    <h2>Find Me Online</h2>
+    <a href="https://www.google.com/" target="_blank">Link to Google</a>
+
+    <br><br>
+
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_programming_language_logo.svg" 
+      alt="Java Programming Language Logo"
+      width="150"
+    >
+    
+
+  </body>
+</html>
